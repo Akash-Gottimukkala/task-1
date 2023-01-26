@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e91ad2a.css",
+    "main.js": "/static/js/main.d8475441.js",
+    "static/media/mlh-prep.png": "/static/media/mlh-prep.270f6887d04d43dc2309.png",
+    "index.html": "/index.html",
+    "main.6e91ad2a.css.map": "/static/css/main.6e91ad2a.css.map",
+    "main.d8475441.js.map": "/static/js/main.d8475441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e91ad2a.css",
+    "static/js/main.d8475441.js"
+  ]
+}
